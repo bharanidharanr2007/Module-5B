@@ -25,3 +25,4 @@ print(np.sort(arr,axis=0))
 ![image](https://github.com/user-attachments/assets/7b968f40-086b-4044-b8ce-413facb177e3)
 
 ## Result
+Thus the program that sorts the elements in each column of a given 2D array in ascending order is executed successfully.
